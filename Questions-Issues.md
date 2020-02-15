@@ -29,6 +29,7 @@ This repository can be used for discussion of these questions.
 1. For addional questions (orange slides with titles like Q01.1), please also copy slide contents in all languages into the issue description. These slide contents usually provide additional explanations related to the question
 1. For discussions during lectures (green slides with titles like D01.1), the slide contents are the answers discussed during lectures. For consistency, please post them as comments on the issue - not in issue description field! 
 1. Typically for each question there will be 3 slides with such answers - 2 in Ukranian slides and 1 in English. Please post each of them as a separate comment. You don't need to post each answer as a separate comment. **Please add a notice that these answers were discussed during lectures, to distinguish them from later answers provided through GitHub** E.g. "Discussions during lecture: ..."
+1. In lecture slides after green-titled slides (D01.1) sometimes there are blue-titled slides with the same title. These slides are the answers from previous years. Please also post them as separate comments, and add an additional notice, e.g. "Discussion from previous years: ..." 
 1. In the issue about lecture slides, please use the English title of the lecture, and add "Slides discussion" at the end. E.g. "Lecture 1. Intro to algorithm theory. Slides discussion". In the issue description, please copy lecture title in all languages
 
 
